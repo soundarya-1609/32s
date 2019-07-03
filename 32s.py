@@ -1,2 +1,2 @@
-s=input()
-print(len(s.split()))
+sound=input()
+print(len(sound.split()))
